@@ -2,7 +2,7 @@
 
 A high-performance, interactive portfolio built for AI Engineers and Vision Specialists. Featuring 3D robotic elements, cinematic starfields, and real-time performance metrics.
 
-![Portfolio Preview](https://portfolio-sand-five-26.vercel.app/)
+(https://portfolio-sand-five-26.vercel.app/)
 
 ## ⚡ Features
 
